@@ -1,12 +1,15 @@
-### Hi there 👋
+![JS's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkxkd0159&hide=contribs,prs,stars,issues&show_icons=true&theme=tokyonight&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkxkd0159&layout=compact&hide=jupyter%20notebook&langs_count=10)  
+![JS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tkxkd0159&layout=compact)  
 
-<!--
-**tkxkd0159/tkxkd0159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Extra pins
+[![pin7](https://github-readme-stats.vercel.app/api/pin/?username=tkxkd0159&repo=chain_core)](https://github.com/tkxkd0159/chain_core)  
 
-Here are some ideas to get you started:
 
+### 🌱 I’m currently learning blockchain and distributed network
+
+<!---
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
