@@ -21,8 +21,8 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 # Extra pins
-<a href="https://github.com/tkxkd0159/TIL_cpp">
-  <img align="center" src="https://github-readme-stats-tkxkd0159.vercel.app/api/pin/?username=tkxkd0159&repo=chain_core&theme=react" />
+<a href="https://github.com/tkxkd0159/TIL_CPP">
+  <img align="center" src="https://github-readme-stats-tkxkd0159.vercel.app/api/pin/?username=tkxkd0159&repo=TIL_CPP&theme=react" />
 </a>
 <a href="https://github.com/tkxkd0159/dsalgo">
   <img align="center" src="https://github-readme-stats-tkxkd0159.vercel.app/api/pin/?username=tkxkd0159&repo=dsalgo&theme=react" />
