@@ -2,6 +2,22 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkxkd0159&layout=compact&hide=jupyter%20notebook&langs_count=10)  
 [![JS's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tkxkd0159)](https://github.com/tkxkd0159?tab=repositories)
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 
 <!--END_SECTION:waka-->
 # Extra pins
