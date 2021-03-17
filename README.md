@@ -1,7 +1,7 @@
 
 [![JS's LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaeseung-lee-5a2a32139/) <br><br>
 ![JS's GitHub stats](https://github-readme-stats-tkxkd0159.vercel.app/api?username=tkxkd0159&hide=contribs,prs,stars,issues&show_icons=true&theme=react&include_all_commits=true)  
-![Top Langs](https://github-readme-stats-tkxkd0159.vercel.app/api/top-langs/?username=tkxkd0159&layout=compact&hide=jupyter%20notebook&langs_count=10)  
+![Top Langs](https://github-readme-stats-tkxkd0159.vercel.app/api/top-langs/?username=tkxkd0159&layout=compact&hide=jupyter%20notebook,scss&langs_count=10)  
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
