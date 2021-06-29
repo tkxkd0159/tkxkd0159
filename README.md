@@ -4,7 +4,7 @@
 ![JS's GitHub stats](https://github-readme-stats-lemon-five.vercel.app/api?username=tkxkd0159&hide=contribs,prs,stars,issues&show_icons=true&theme=react&include_all_commits=true)  
 ![Top Langs](https://github-readme-stats-lemon-five.vercel.app/api/top-langs/?username=tkxkd0159&layout=compact&hide=jupyter%20notebook,scss&langs_count=10)  
 
-```
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -30,7 +30,7 @@ Linux                    4 hrs 16 mins       ██░░░░░░░░░�
 
  Last Updated on 29/06/2021
 <!--END_SECTION:waka-->
-```
+
 # Extra pins
 <a href="https://github.com/tkxkd0159/TIL_CPP">
   <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=TIL_CPP&theme=react" />
