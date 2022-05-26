@@ -34,9 +34,9 @@ Windows                  13 mins             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 # Extra pins
-<a href="https://github.com/tkxkd0159/go-chain">
+<!-- <a href="https://github.com/tkxkd0159/go-chain">
   <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=go-chain&theme=react" />
-</a>
+</a> -->
 <a href="https://github.com/tkxkd0159/dsalgo">
   <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=dsalgo&theme=react" />
 </a>
