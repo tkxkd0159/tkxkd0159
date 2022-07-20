@@ -35,7 +35,7 @@ Windows                  9 mins              ░░░░░░░░░░░�
 
 # Extra pins
 <a href="https://github.com/tkxkd0159/tkxkd0159.github.io">
-  <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=tkxkd0159.github.io&theme=react" />
+  <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=nft-card-game&theme=react" />
 </a>
 <a href="https://github.com/tkxkd0159/dsalgo">
   <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=dsalgo&theme=react" />
