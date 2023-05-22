@@ -29,7 +29,7 @@ Mac                      1 hr 3 mins         █░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/05/2023 01:15:46 UTC
+ Last Updated on 22/05/2023 01:14:52 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/tkxkd0159/dsalgo">
