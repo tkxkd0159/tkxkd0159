@@ -12,20 +12,18 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Go                       1 hr 8 mins         █████████████████████████   99.86% 
-protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   1 hr 8 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 23/07/2023 00:19:40 UTC
+ Last Updated on 24/07/2023 00:18:32 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/tkxkd0159/dsalgo">
