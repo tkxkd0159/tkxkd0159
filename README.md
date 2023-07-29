@@ -24,7 +24,7 @@ Windows                  6 hrs 9 mins        ███████████�
 ```
 
 
- Last Updated on 28/07/2023 00:16:57 UTC
+ Last Updated on 29/07/2023 00:16:58 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/tkxkd0159/dsalgo">
