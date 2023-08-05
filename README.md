@@ -12,18 +12,19 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       5 mins              ███████████████████████░░   92.88% 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/08/2023 00:18:09 UTC
+ Last Updated on 05/08/2023 00:16:58 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/tkxkd0159/dsalgo">
