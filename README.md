@@ -28,7 +28,7 @@ Linux                    2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/10/2023 00:14:17 UTC
+ Last Updated on 29/10/2023 00:16:13 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/tkxkd0159/dsalgo">
