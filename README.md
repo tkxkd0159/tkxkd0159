@@ -32,6 +32,7 @@ Mac                      7 hrs 33 mins       ███████░░░░�
  Last Updated on 10/11/2023 00:15:24 UTC
 <!--END_SECTION:waka-->
 
+---
 <a href="https://github.com/tkxkd0159/dsalgo">
   <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=dsalgo&theme=react" />
 </a>
