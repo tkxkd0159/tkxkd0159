@@ -35,9 +35,7 @@ Mac                      7 hrs 33 mins       ███████░░░░�
 <a href="https://github.com/tkxkd0159/dsalgo">
   <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=dsalgo&theme=react" />
 </a>
-<a href="https://github.com/tkxkd0159/books">
-  <img align="center" src="https://github-readme-stats-lemon-five.vercel.app/api/pin/?username=tkxkd0159&repo=books&theme=react" />
-</a>
+
 
 <!---
 - 🔭 I’m currently working on ...
