@@ -12,17 +12,18 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       0 secs              █████████████████████████   99.29 % 
+protobuf                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/01/2024 00:15:47 UTC
+ Last Updated on 03/01/2024 00:15:53 UTC
 <!--END_SECTION:waka-->
 
 ---
