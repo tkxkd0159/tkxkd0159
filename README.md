@@ -6,22 +6,20 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C682%20hrs%2027%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Go                       2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/05/2025 06:05:56 UTC
+ Last Updated on 02/05/2025 06:05:37 UTC
 <!--END_SECTION:waka-->
 
 ---
