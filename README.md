@@ -15,14 +15,14 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 26 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/12/2025 06:05:54 UTC
+ Last Updated on 08/12/2025 06:07:02 UTC
 <!--END_SECTION:waka-->
 
 ---
