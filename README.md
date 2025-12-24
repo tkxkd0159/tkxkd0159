@@ -15,15 +15,14 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     0 secs              ██████████████░░░░░░░░░░░   55.53 % 
-YAML                     0 secs              ███████████░░░░░░░░░░░░░░   44.47 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/12/2025 06:06:59 UTC
+ Last Updated on 24/12/2025 06:06:49 UTC
 <!--END_SECTION:waka-->
 
 ---
